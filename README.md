@@ -108,3 +108,5 @@ python manage.py runserver
 ```
 
 Open your web browser and navigate to `localhost:8000` to confirm the Django app is running successfully.
+
+Stop the local server from running by hitting <kbd>CTRL</kbd>+<kbd>c</kbd>
