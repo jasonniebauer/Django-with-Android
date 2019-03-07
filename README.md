@@ -22,6 +22,11 @@ Install [Termux](https://termux.com/) for Android.
 pkg upgrade
 ```
 
+Create a storage directory to access other areas of the device.
+```
+termux-setup-storage
+```
+
 ### Install Python
 **Install Python**
 ```
