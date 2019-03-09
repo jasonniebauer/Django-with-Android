@@ -17,6 +17,8 @@
 ### Install Termux
 Install [Termux](https://termux.com/) for Android.
 
+**Tip**: Enlarge font size by pressing <kbd>CTRL</kbd>+<kbd>Alt</kbd>+<kbd>+</kbd>
+
 **Upgrade**
 ```
 pkg upgrade
