@@ -1,4 +1,4 @@
-# Django for Android
+# Django with Android
 
 **Table of Contents**
 1. [Get Started](#get-started)  
